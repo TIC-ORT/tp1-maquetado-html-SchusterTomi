@@ -10,7 +10,7 @@
   
   .header {
     display: flex;
-    height: 40px;
+    height: 60px;
     width: 100%;
   }
   
@@ -21,7 +21,7 @@
   
   .partederecha {
     background-color: #86ced7;  
-    width: 75%;
+    width: 95%;
     display: flex;
     justify-content: flex-end;
     align-items: center;
@@ -34,8 +34,8 @@
   }
   
   .rectangulo {
-    width: 40px;
-    height: 10px;
+    width: 90px;
+    height: 15px;
     border-radius: 2px;
   }
   
@@ -44,6 +44,18 @@
   }
   
   .rojo {
+    width: 50px;
+    height: 15px;
+    border-radius: 2px;
+    background-color: coral;
+  }
+
+  .imagenizquierda {
+    width: 205px;
+    height: 180px;
+    border-radius: 2px;
+    margin-left:40px;
+    margin-top: 30px;
     background-color: coral;
   }
   
