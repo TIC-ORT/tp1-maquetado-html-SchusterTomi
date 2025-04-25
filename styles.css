@@ -10,7 +10,7 @@
   
   .header {
     display: flex;
-    height: 60px;
+    height: 50px;
     width: 100%;
   }
   
@@ -50,12 +50,44 @@
     background-color: coral;
   }
 
-  .imagenizquierda {
-    width: 205px;
+  .body {
+    display: flex;
+    height: 60px;
+    width: 100%;
+  }
+
+  .Imgizquierda {
+    width: 200px;
     height: 180px;
     border-radius: 2px;
-    margin-left:40px;
+    margin-left:74px;
     margin-top: 30px;
-    background-color: coral;
+    background-color: rgb(230, 228, 228);
+  }
+
+  .rellenoImgizquierda {
+    width: 100px;
+    height: 100px;
+    border-radius: 2px;
+    margin-left:53px;
+    margin-top: 40px;
+    background-color: rgb(201, 201, 201);
+  }
+  .txtImgizquierda1 {
+    width: 135px; 
+    height: 8px;
+    border-radius: 2px;
+    margin-left:35px;
+    margin-top: 55px;
+    background-color: rgb(126, 47, 47);
+  }
+  
+  .txtImgizquierda2 {
+    width: 135px; 
+    height: 8px;
+    border-radius: 2px;
+    margin-left:20px;
+    margin-top: 30px;
+    background-color: rgb(10, 8, 8);
   }
   
