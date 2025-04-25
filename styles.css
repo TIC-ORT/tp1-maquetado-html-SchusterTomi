@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: sans-serif;
+  }
+  
+  .header {
+    display: flex;
+    height: 40px;
+    width: 100%;
+  }
+  
+  .parteizquierda {
+    background-color: #d2f4f8; 
+    width: 25%;
+  }
+  
+  .partederecha {
+    background-color: #86ced7;  
+    width: 75%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 10px;
+  }
+  
+  .rectangulos {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .rectangulo {
+    width: 40px;
+    height: 10px;
+    border-radius: 2px;
+  }
+  
+  .blanco {
+    background-color: white;
+  }
+  
+  .rojo {
+    background-color: coral;
+  }
+  
