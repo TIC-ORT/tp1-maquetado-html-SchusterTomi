@@ -153,5 +153,32 @@
     background-color: #c0c0c0;
 }
 
-/* CONTENT */
+.lineanegra {
+    width: 260px;
+    height: 20px;
+    background-color: #5a5d66; 
+    margin-top: -150px;
+    margin-left: 1000px ;
+}
 
+.txtlineanegra1,
+  .txtlineanegra2,
+  .txtlineanegra3,
+  .txtlineanegra4 {
+    width: 550px;
+    height: 5px;
+    background-color: #c0c0c0; 
+    margin-top: 10px;
+    margin-left: 1000px ;
+  }
+
+.txtlineanegra5{
+  width: 300px;
+    height: 5px;
+    background-color: #c0c0c0; 
+    margin-top: 8px;
+    margin-left: 1130px ;
+}
+
+
+/* CONTENT */ 
